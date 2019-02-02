@@ -11,4 +11,4 @@
 
 ## AGRADECIMENTOS 
 
-<p> Agradecimentos à professora Larissa Ferreira pelo aprendizao e dedicação durante toda a disciplina.
+<p> Agradecimentos à professora Larissa Ferreira pelo aprendizado e dedicação durante toda a disciplina.
