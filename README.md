@@ -2,7 +2,7 @@
 ## Projeto da disciplina SIN493 - Deep Learning para Visão Computacional
 
 ## DESCRIÇÃO
-<p>Implementação de Redes Neurais Convulacionais para reconhecimento de flores através do 102 Category Flower Dataset, utilizando a linguagem python 3 e o framkework Pytorch em ambiente nuvem Google Colaboratory e desenvolvido por: </p>
+<p>Implementação de Redes Neurais Convolucionais para reconhecimento de flores através do 102 Category Flower Dataset, utilizando a linguagem python 3 e o framkework Pytorch em ambiente nuvem Google Colaboratory, desenvolvido por: </p>
 <ul>
     <li>Victor Alcântara - [GitHub](https://github.com/victoralcantara75) </li>
     <li>Tiemy Shibuya - [GitHub](https://github.com/TiemyShibuya) </li>
