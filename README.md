@@ -9,6 +9,6 @@
 </ul>
 <p> Desenvolvido para a disciplina SIN493 - Deep Learning para Visão Computacional do curso de Sistemas de Informação da UFV-CRP.</p>
 
-##AGRADECIMENTOS 
+## AGRADECIMENTOS 
 
 <p> Agradecimentos à professora Larissa Ferreira pelo aprendizao e dedicação durante toda a disciplina.
